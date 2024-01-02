@@ -47,3 +47,4 @@ Np里的运算方法，np.arange(n)重点看看，要你画矩阵的，初始化
 
 
 如果有补充可以联系我，也可以不联系我直接搞个新的
+还可以参考https://github.com/LeiWang1999/AICS-Course的内容（题目有一定参考价值，不过这个好像不是BUPT特供）
